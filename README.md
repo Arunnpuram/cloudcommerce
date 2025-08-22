@@ -1,6 +1,6 @@
 # CloudCommerce - Enterprise E-Commerce Platform
 
-[![Build Status](https://github.com/Arunnpuram/cloudcommerce/workflows/CI%2FCD/badge.svg)](https://github.com/Arunnpuram/cloudcommerce/actions)
+[![Build Status](https://github.com/Arunnpuram/cloudcommerce/workflows/CloudCommerce%20CI%2FCD%20Pipeline/badge.svg)](https://github.com/Arunnpuram/cloudcommerce/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Native-326ce5.svg)](https://kubernetes.io/)
