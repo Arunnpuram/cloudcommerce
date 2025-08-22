@@ -259,6 +259,3 @@ make build
 
 - [Architecture Guide](docs/ARCHITECTURE.md)
 - [Deployment Guide](docs/DEPLOYMENT.md)
-- [API Reference](docs/API.md)
-- [Contributing Guide](docs/CONTRIBUTING.md)
-- [Security Policy](docs/SECURITY.md)

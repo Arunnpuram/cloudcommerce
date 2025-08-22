@@ -419,5 +419,3 @@ kubectl set image deployment/user-service user-service=user-service:v1.1.0 -n cl
 # Check for vulnerabilities
 trivy image user-service:latest
 ```
-
-This deployment guide provides comprehensive instructions for setting up and managing the CloudCommerce platform. For production deployments, ensure you follow security best practices and customize configurations according to your specific requirements.
