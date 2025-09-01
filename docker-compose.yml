@@ -218,7 +218,7 @@ services:
       retries: 3
 
   grafana:
-    image: grafana/grafana:10.0.0
+    image: grafana/grafana:10.4.19
     container_name: cloudcommerce-grafana
     restart: unless-stopped
     environment:
