@@ -148,7 +148,7 @@ services:
 
   # API Gateway
   kong:
-    image: kong:3.4
+    image: kong:3.9
     container_name: cloudcommerce-kong
     restart: unless-stopped
     environment:
