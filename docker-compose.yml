@@ -173,7 +173,7 @@ services:
 
   # Message Queue
   rabbitmq:
-    image: rabbitmq:3.12-management
+    image: rabbitmq:3.13-management
     container_name: cloudcommerce-rabbitmq
     restart: unless-stopped
     environment:
